@@ -1,0 +1,3 @@
+2 types of declaratoion -- 1->by using constructor ; object.create();it is singleton object
+                            2->by using litrals ; const obj = {}
+                            "key value pair"

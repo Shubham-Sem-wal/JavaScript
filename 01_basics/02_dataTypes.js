@@ -12,6 +12,9 @@ null
 indefined
 symbol*/
 
-console.log(5/-0);
+// console.log(5/-0);
+console.log(typeof undefined)
+console.log(typeof null)    //-----> null is a object type
+
 
 

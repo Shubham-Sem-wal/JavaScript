@@ -1,0 +1,15 @@
+NOTE: difference between slice and splice methods
+
+     --> slice() method gives us piece of array without changing
+         the original one
+     --> splice() method print piece of array but also modified 
+         the original array.
+
+EXAMPLE: array = [10,20,30,40,50]
+         array.slice(1,4) --> [20,30,40]  ; 4th index doesnt include,also 
+                                original array remains same
+
+        array.splice(1,4) --> [20,30,40,50] ; 4th index includes but original
+                             array will be --> [10]
+                             
+                              
